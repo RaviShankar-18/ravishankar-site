@@ -7,5 +7,5 @@ I know:
 1. JavaScript
 1. Repl.it
 2. CHALK
-3. 
+
 
